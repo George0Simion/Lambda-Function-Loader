@@ -1,0 +1,2 @@
+Error: /home/simion/Desktop/school/2/sem1/so/operating-systems/content/assignments/lambda-function-loader/tests/libfictional.so could not be executed.
+Reason: /home/simion/Desktop/school/2/sem1/so/operating-systems/content/assignments/lambda-function-loader/tests/libfictional.so: cannot open shared object file: No such file or directory
